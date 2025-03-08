@@ -1,4 +1,4 @@
-Sci-Quiz
+#Sci-Quiz
 
 A dynamic and engaging quiz platform designed to make learning science fun and interactive.
 
@@ -36,10 +36,6 @@ Quiz Materials – Questions, answers, and resources used.
 3. Modify and customize as per your needs.
 
 
-
-📜 License
-
-This project is licensed under MIT License – feel free to use, modify, and share!
 
 🤝 Contributing
 
