@@ -1,4 +1,4 @@
-#Sci-Quiz
+**Sci-Quiz**
 
 A dynamic and engaging quiz platform designed to make learning science fun and interactive.
 
